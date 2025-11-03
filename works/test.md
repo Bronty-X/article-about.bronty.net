@@ -4,6 +4,7 @@ navigation: true
 created-at: 2025-01-01
 updated-at: 2025-01-01
 tags: nuxt,node,javascript
+thumbnail: /uploads/chatgpt-image.png
 ---
 ## 概要
 この欄には、システムの概要やシステムを作成した理由が記載されます。
