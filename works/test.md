@@ -1,5 +1,5 @@
 ---
-title: めっちゃイカしたシステムについて
+title: めっちゃイカしたシステムについて v0.0.2
 navigation: true
 created-at: 2025-01-01
 updated-at: 2025-01-01
